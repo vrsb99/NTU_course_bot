@@ -1,5 +1,5 @@
 # NTU_course_bot
-
+Auto adds courses for NTU stars depending on set time
 ## To run
 ### under python
 1.  pip install -r requirements.txt
